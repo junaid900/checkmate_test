@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>683321328914-9nqc1h1pfqhnn57sm7447f7uhfut5l9t.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.683321328914-9nqc1h1pfqhnn57sm7447f7uhfut5l9t</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>683321328914-ahu01n081hmu4dqu4r8mnfk9nelprief.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyAaZLvcSlASFTiVyfMj4IilSMUtx8QP1I8</string>
+    <key>GCM_SENDER_ID</key>
+    <string>683321328914</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.app.checkmate</string>
+    <key>PROJECT_ID</key>
+    <string>checkmate-4eb44</string>
+    <key>STORAGE_BUCKET</key>
+    <string>checkmate-4eb44.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:683321328914:ios:6ac03e03b0947c03ca9fcb</string>
+    <key>DATABASE_URL</key>
+    <string>https://checkmate-4eb44-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

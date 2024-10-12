@@ -1,0 +1,3 @@
+enum AuthContainer {LOGIN_CONTAINER, SIGUP_CONTAINER}
+enum AlertType { INFO, WARNING, ERROR, SUCCESS }
+enum DeviceType { MOBILE, TABLET, LAPTOP }
